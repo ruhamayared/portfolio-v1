@@ -36,6 +36,7 @@ function Projects() {
         <div className="project-description">
           <h2 className="subtitle">Polynomials App</h2>
           <p>Full-stack application that allows users to view, create, read, and update polynomials as well as user comments.</p>
+          <p>Express | MongoDB | Mongoose | Node.js | EJS | CSS3 | HTML5</p>
           <p>Project is deployed <a href="https://unit-2-project-ll26.onrender.com/" rel="noopener noreferrer" target="_blank">here</a>.</p>
           <p>GitHub repo for <em>Polynomials App</em> can be viewed <a href="https://github.com/ruhamayared/Polynomials-App" rel="noopener noreferrer" target="_blank">here</a>.</p>
         </div>
@@ -47,6 +48,7 @@ function Projects() {
         <div className="project-description">
           <h2 className="subtitle">What's there to Drink?</h2>
           <p>A web application that displays cocktail information for a fun night using The Cocktail DB API.</p>
+          <p>JavaScript | jQuery | CSS3 | HTML5</p>
           <p>Project is deployed <a href="https://unit1project.vercel.app/" rel="noopener noreferrer" target="_blank">here</a>.</p>
           <p>GitHub repo for <em>What's there to Drink?</em> can be viewed <a href="https://github.com/ruhamayared/Whats-there-to-Drink" rel="noopener noreferrer" target="_blank">here</a>.</p>
         </div>
