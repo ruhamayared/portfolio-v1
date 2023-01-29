@@ -1,7 +1,7 @@
 import React from 'react';
 import './projects.css'
 // import SS4 from '../assets/atf-screenshot.png';
-// import SS3 from '../assets/la-screenshot.png';
+import SS3 from '../assets/road-trip-buddy.png';
 import SS2 from '../assets/polynomials-app.png';
 import SS1 from '../assets/whats-there-to-drink.png';
 
@@ -18,17 +18,19 @@ function Projects() {
           <p>An application that allows users to upload their own artwork, and comment on and view artwork created by other users. It is a full stack application, made with React, Node.js, Express, MongoDB, and CSS. </p>
           <p>Project is deployed <a href="https://allofthefeels.fly.dev" rel="noopener noreferrer" target="_blank">here</a>. Github for All The Feels can be viewed <a href="https://github.com/Amanda2900/allTheFeels" rel="noopener noreferrer" target="_blank">here</a>.</p>
         </div>
-      </div>
+      </div> */}
       <div className="project-div">
         <div className="project-img">
-          <img src={SS3} alt="larkspur's apothecary landing page" />
+          <img src={SS3} alt="Road Trip Buddy Lake of Ozarks show page." />
         </div>
         <div className="project-description">
-          <h2 className="subtitle">Larkspur's Apothecary</h2>
-          <p>A mock up of a fictional apothecary where the user can browse herbs, then create their own remedies and view any that are made by other users. It is a full stack application, made with Python, Django, AWS, HTML, and CSS. </p>
-          <p>Project is deployed <a href="https://larkspurs-apothecary.fly.dev" rel="noopener noreferrer" target="_blank">here</a>. Github for Larkspur's Apothecary can be viewed <a href="https://github.com/Amanda2900/larkspursapothecary" rel="noopener noreferrer" target="_blank">here</a>.</p>
+          <h2 className="subtitle">Road Trip Buddy</h2>
+          <p>Full-stack application that allows users to easily add, view, and manage destinations as they embark on a road trip. Users can create detailed entries with names, links, addresses, and notes for each location on their journeys. Users can also check off each destination as they visit them and even update or delete them as needed.</p>
+          <p>React | Express | MongoDB | Mongoose | Node.js | CSS3 </p>
+          <p>Project is deployed <a href="https://heartfelt-dasik-3376da.netlify.app/" rel="noopener noreferrer" target="_blank">here</a>. </p>
+          <p>GitHub repo for <em>Road Trip Buddy</em> can be viewed <a href="https://github.com/ruhamayared/Road-trip-buddy-frontend" rel="noopener noreferrer" target="_blank">here</a>.</p>
         </div>
-      </div> */}
+      </div>
       <div className="project-div">
         <div className="project-img">
           <img src={SS2} alt="Polynomials App page" />
