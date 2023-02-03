@@ -1,7 +1,7 @@
 <h1>Ruhama Yared's Portfolio</h1>
 
 Welcome!
-Thanks for taking a look at my portfolio GitHub repo. To view my portfolio, click <a href="https://enchanting-salmiakki-f60c02.netlify.app/">here.</a>
+Thanks for taking a look at my portfolio GitHub repo. To view my portfolio, click <a href="https://ruhamayared.com/">here.</a>
 
 <h2>Credits</h2>
 
