@@ -45,7 +45,7 @@ function Projects() {
       </div>
       <div className="project-div">
         <div className="project-img">
-          <img src={SS1} alt="What's there to Drink? page" />
+       <img src={SS1} alt="What's there to Drink? page" />
         </div>
         <div className="project-description">
           <h2 className="subtitle">What's there to Drink?</h2>

@@ -20,7 +20,7 @@ span {
 .pic > img {
   border-radius: 15px;
   margin: 20px;
-  width: 330px;
+  width: 300px;
   border: solid 3px rgb(43, 6, 49);
   box-shadow: 5px 5px 6px -1px #AAA;
 }
@@ -28,6 +28,7 @@ span {
 .bio-skills {
   width: 40%;
   margin: 0 70px;
+  align-content: center;
 }
 
 @media only screen and (max-width: 1000px) {
