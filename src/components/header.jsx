@@ -12,7 +12,7 @@ function Header() {
             <li><a href="#bio" className="hide">About</a></li>
             <li><a href="#projects" className="hide">Projects</a></li>
             <li><a href="#contact">Contact</a></li>
-            <li><a href={resume} download="Ruhama_Yared_Resume">Resume</a></li>
+            <li><a href={resume} download="Ruhama_Yared_Resume">↓Resume</a></li>
           </ul>
         </div>
       </nav>
