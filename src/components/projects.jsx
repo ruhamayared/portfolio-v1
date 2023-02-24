@@ -1,24 +1,26 @@
 import React from 'react';
 import './projects.css'
-// import SS4 from '../assets/atf-screenshot.png';
-import SS3 from '../assets/road-trip-buddy.png';
-import SS2 from '../assets/polynomials-app.png';
-import SS1 from '../assets/whats-there-to-drink.png';
+import SS4 from '../assets/the-spice-app.png'
+import SS3 from '../assets/road-trip-buddy.png'
+import SS2 from '../assets/polynomials-app.png'
+import SS1 from '../assets/whats-there-to-drink.png'
 
 function Projects() {
   return (
     <section id="projects">
       <h1>Projects</h1>
-      {/* <div className="project-div">
+      <div className="project-div">
         <div className="project-img">
-          <img src={SS4} alt="all the feels landing page" />
+          <img src={SS4} alt="The Spice App landing page." />
         </div>
         <div className="project-description">
-          <h2 className="subtitle">All The Feels</h2>
-          <p>An application that allows users to upload their own artwork, and comment on and view artwork created by other users. It is a full stack application, made with React, Node.js, Express, MongoDB, and CSS. </p>
-          <p>Project is deployed <a href="https://allofthefeels.fly.dev" rel="noopener noreferrer" target="_blank">here</a>. Github for All The Feels can be viewed <a href="https://github.com/Amanda2900/allTheFeels" rel="noopener noreferrer" target="_blank">here</a>.</p>
+          <h2 className="subtitle">The Spice App</h2>
+          <p>Built using Python and Django for the backend, and TypeScript and React for the frontend, this app provides users with the ability to add spice names, descriptions, and images, and manage them with all CRUD functionality.</p>
+          <p>Django | TypeScript | React | Postgres | Tailwind CSS </p>
+          <p>Project is deployed <a href="https://visionary-biscotti-9f36e0.netlify.app/" rel="noopener noreferrer" target="_blank">here</a>. </p>
+          <p>Github for <em>The Spice App</em> can be viewed <a href="https://github.com/ruhamayared/The-Spice-App-React" rel="noopener noreferrer" target="_blank">here</a>.</p>
         </div>
-      </div> */}
+      </div>
       <div className="project-div">
         <div className="project-img">
           <img src={SS3} alt="Road Trip Buddy Lake of Ozarks show page." />
