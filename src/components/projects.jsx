@@ -19,7 +19,7 @@ function Projects() {
           <p>The site allows users to create an account and start journaling. Users can create, read, update, and delete journal entries, as well as view past entries by date. The app/site is built using the Go programming language and Echo web framework for the backend API, and React and TypeScript for the frontend.</p>
           <p>Go | Echo | TypeScript | React | Postgres </p>
           <p>Project is deployed <a href="https://main--magenta-genie-2c7a89.netlify.app/" rel="noopener noreferrer" target="_blank">here</a>. </p>
-          <p>Github for <em>Healing Pages</em> can be viewed <a href="https://github.com/ruhamayared/Healing-Pages-frontend" rel="noopener noreferrer" target="_blank">here</a>.</p>
+          <p>Github repo for <em>Healing Pages</em> can be viewed <a href="https://github.com/ruhamayared/Healing-Pages-frontend" rel="noopener noreferrer" target="_blank">here</a>.</p>
         </div>
       </div>
       <div className="project-div">
@@ -31,7 +31,7 @@ function Projects() {
           <p>Built using Python and Django for the backend, and TypeScript and React for the frontend, this app provides users with the ability to add spice names, descriptions, and images, and manage them with all CRUD functionality.</p>
           <p>Django | TypeScript | React | Postgres | Tailwind CSS </p>
           <p>Project is deployed <a href="https://visionary-biscotti-9f36e0.netlify.app/" rel="noopener noreferrer" target="_blank">here</a>. </p>
-          <p>Github for <em>The Spice App</em> can be viewed <a href="https://github.com/ruhamayared/The-Spice-App-React" rel="noopener noreferrer" target="_blank">here</a>.</p>
+          <p>Github repo for <em>The Spice App</em> can be viewed <a href="https://github.com/ruhamayared/The-Spice-App-React" rel="noopener noreferrer" target="_blank">here</a>.</p>
         </div>
       </div>
       <div className="project-div">
