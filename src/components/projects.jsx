@@ -1,5 +1,6 @@
 import React from 'react';
 import './projects.css'
+import SS6 from '../assets/luxxy-aws-gcp.png'
 import SS5 from '../assets/healing-pages.png'
 import SS4 from '../assets/the-spice-app.png'
 import SS3 from '../assets/road-trip-buddy.png'
@@ -10,6 +11,17 @@ function Projects() {
   return (
     <section id="projects">
       <h1>Projects</h1>
+      <div className="project-div">
+        <div className="project-img">
+          <img src={SS6} alt="Solution architect for migrating Luxxy to the cloud." />
+        </div>
+        <div className="project-description">
+          <h2 className="subtitle">Migration to the Cloud of Luxxy COVID-19 Test Result System</h2>
+          <p>This project involved setting up AWS and automating the creation of credentials for seamless integration with Terraform. A GCP project was integrated into the configuration files using automation scripts, and essential APIs such as the Container Registry API, Kubernetes Engine API, and Cloud SQL API were enabled in GCP. In addition, PDF files were securely stored on AWS S3 storage, ensuring reliable and scalable storage. The Luxxy COVID-19 Testing Result System was successfully deployed on both AWS and GCP infrastructures using Terraform, showcasing expertise in cloud technologies, automation, IAM management, and Kubernetes deployment.</p>
+          <p>AWS | GCP | Terraform | YAML | Kubernetes </p>
+          <p>Github repo for <em>the project</em> can be viewed <a href="https://github.com/ruhamayared/Luxxy-Cloud-Migration" rel="noopener noreferrer" target="_blank">here</a>.</p>
+        </div>
+      </div>
       <div className="project-div">
         <div className="project-img">
           <img src={SS5} alt="Healing Pages landing page." />
